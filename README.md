@@ -69,3 +69,6 @@ The `LaTeX` ecosystem is known for redundant packages. To ensure that we can can
 3. For the Dirac notation use the `braket` package. (Details are [here](https://ctan.org/tex-archive/macros/latex/contrib/braket?lang=en).)
 4. If you want to draw circuit diagrams, use the `tikz` and `quantikz` packages. (Details are [here](https://ctan.org/pkg/quantikz?lang=en).)
 5. If you have to absolutely use any additional / non-standard packages, then please mention that in you commit message.
+
+## Other Resources
+There are many other free books and notes apart from this book, to get started in Quantum Computing, you can see all those free resources [here](https://monitsharma.github.io/Learn-Quantum-Computing-For-Free/)
